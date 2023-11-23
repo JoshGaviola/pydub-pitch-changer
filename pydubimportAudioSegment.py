@@ -2,7 +2,7 @@ from pydub import AudioSegment
 from pydub.playback import play
 import pygame
 import time
-v
+
 # Load the audio filecg
 audio = AudioSegment.from_file("C:\\Users\\user\Music\\trev.mp3", format="mp3")
 
